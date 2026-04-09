@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Joe Dodd Construction, Carpenter, Handyman",
+    "phone": "+17573755845",
+    "category": "carpenter",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Built Solid. Built to Last.",
+      "heroSubline": "Joe Dodd Construction: Expert carpentry and handyman services across Virginia Beach. Quality craftsmanship, guaranteed.",
+      "aboutTitle": "Craftsmanship You Can Trust",
+      "aboutText": [
+        "Joe Dodd Construction started with a simple goal: deliver honest, reliable carpentry services to Virginia Beach. What began as a solo operation has grown into a team of skilled carpenters and handymen, all committed to upholding the highest standards of quality.",
+        "We believe in clear communication, meticulous planning, and unwavering attention to detail. Our approach is simple: understand your vision, offer expert advice, and execute the project flawlessly. We treat every project, big or small, as if it were our own home.",
+        "We're proud to be part of the Virginia Beach community. We source materials locally whenever possible, support local businesses, and strive to give back through community projects."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Craftsmen",
+          "description": "Years of experience in carpentry and handyman services, ensuring quality and efficiency."
+        },
+        {
+          "title": "Locally Focused",
+          "description": "Deep understanding of Virginia Beach architecture, climate considerations, and building codes."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed throughout the project, ensuring your satisfaction every step of the way."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not happy, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Ready to Build Something Great?",
+      "ctaSubline": "Contact Joe Dodd Construction today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "custom-deck-building",
+        "name": "Custom Deck Building",
+        "shortDescription": "Design and construction of custom decks to enhance your outdoor living space.",
+        "description": "Dreaming of a new deck to enjoy those Virginia Beach evenings? Joe Dodd Construction specializes in custom deck design and construction. We handle every aspect of the project, from initial design concepts and material selection to permitting and final construction. We understand the impact of salt air and humidity on outdoor structures in coastal Virginia, so we use only pressure-treated lumber, composite decking, and stainless steel fasteners to ensure your deck withstands the elements for years to come. Whether you envision a simple platform deck or a multi-level entertainment space, we'll work with you to create a deck that perfectly complements your home and lifestyle. We can also integrate features like built-in seating, pergolas, and outdoor lighting to create the ultimate outdoor oasis. We are experts in navigating local zoning regulations and building codes to ensure a smooth and hassle-free construction process. Let us help you build the deck of your dreams.",
+        "process": [
+          "Step 1: Initial Consultation and Design",
+          "Step 2: Material Selection and Permitting",
+          "Step 3: Deck Framing and Construction",
+          "Step 4: Finishing and Inspection"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced outdoor living space",
+          "Customized design to fit your needs",
+          "Durable construction that withstands the elements"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Virginia Beach?",
+            "answer": "Composite decking and pressure-treated lumber are both excellent choices for Virginia Beach due to their resistance to moisture and insects. We can help you choose the best option based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do I need a permit for a new deck?",
+            "answer": "Yes, in most cases, you will need a permit to build a new deck in Virginia Beach. We will handle the permitting process for you to ensure your project complies with all local regulations."
+          },
+          {
+            "question": "How long does it take to build a custom deck?",
+            "answer": "The timeline for a custom deck build depends on the size and complexity of the project. A simple deck can typically be completed in 1-2 weeks, while a more elaborate design may take 3-4 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "interior-trim-and-molding",
+        "name": "Interior Trim and Molding",
+        "shortDescription": "Enhance your home's interior with expert trim and molding installation.",
+        "description": "Transform the interior of your Virginia Beach home with custom trim and molding from Joe Dodd Construction. From crown molding and baseboards to wainscoting and door casings, we can add architectural detail and elegance to any room. We understand the importance of precise cuts and seamless joints, ensuring a flawless finish that enhances the overall aesthetic of your home. Whether you're looking to update a single room or renovate your entire house, we have the expertise to deliver exceptional results. We work with a variety of materials, including wood, MDF, and PVC, to match your style and budget. We pay close attention to detail, ensuring that every piece of trim and molding is installed perfectly, creating a cohesive and polished look. Let us help you create a home that reflects your personal style and enhances your living space.",
+        "process": [
+          "Step 1: Consultation and Design Selection",
+          "Step 2: Material Selection and Ordering",
+          "Step 3: Precise Cutting and Installation",
+          "Step 4: Caulking, Sanding, and Painting"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced interior aesthetics",
+          "Improved insulation and energy efficiency",
+          "Customized designs to match your style"
+        ],
+        "faq": [
+          {
+            "question": "What type of trim and molding is best for my home?",
+            "answer": "The best type of trim and molding depends on your architectural style and personal preferences. We can help you choose the right materials and designs to complement your home's existing features."
+          },
+          {
+            "question": "Can you match existing trim and molding?",
+            "answer": "Yes, we can match existing trim and molding to ensure a seamless transition between new and old elements."
+          },
+          {
+            "question": "How long does it take to install trim and molding in a room?",
+            "answer": "The timeline for trim and molding installation depends on the size and complexity of the room. A typical room can be completed in 1-3 days."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-cabinet-installation",
+        "name": "Kitchen Cabinet Installation",
+        "shortDescription": "Professional kitchen cabinet installation for a functional and beautiful kitchen.",
+        "description": "Upgrade your Virginia Beach kitchen with professional cabinet installation from Joe Dodd Construction. Whether you're remodeling your entire kitchen or simply replacing your existing cabinets, we have the expertise to ensure a perfect fit and flawless finish. We handle all aspects of the installation process, from removing old cabinets and prepping the space to installing new cabinets and hardware. We understand the importance of precise measurements and level installation, ensuring that your cabinets are both functional and aesthetically pleasing. We work with all types of cabinets, including stock, semi-custom, and custom cabinets. We pay close attention to detail, ensuring that every cabinet is installed securely and that all hardware is properly aligned. Let us help you create the kitchen of your dreams.",
+        "process": [
+          "Step 1: Consultation and Cabinet Selection",
+          "Step 2: Old Cabinet Removal and Space Preparation",
+          "Step 3: New Cabinet Installation and Leveling",
+          "Step 4: Hardware Installation and Final Adjustments"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved kitchen functionality",
+          "Enhanced kitchen aesthetics",
+          "Professional installation for lasting results"
+        ],
+        "faq": [
+          {
+            "question": "Can you help me choose the right cabinets for my kitchen?",
+            "answer": "Yes, we can provide expert guidance on cabinet selection based on your budget, style, and functional needs."
+          },
+          {
+            "question": "Do you offer custom cabinet installation?",
+            "answer": "Yes, we offer custom cabinet installation to ensure a perfect fit for your unique kitchen space."
+          },
+          {
+            "question": "How long does it take to install new kitchen cabinets?",
+            "answer": "The timeline for kitchen cabinet installation depends on the size and complexity of the project. A typical kitchen can be completed in 3-5 days."
+          }
+        ]
+      },
+      {
+        "slug": "door-and-window-installation",
+        "name": "Door and Window Installation",
+        "shortDescription": "Expert door and window installation for improved energy efficiency and aesthetics.",
+        "description": "Upgrade your Virginia Beach home with professional door and window installation from Joe Dodd Construction. New doors and windows can improve energy efficiency, enhance curb appeal, and increase home value. We handle all aspects of the installation process, from removing old doors and windows to installing new ones and sealing them properly. We understand the importance of proper insulation and weatherstripping, ensuring that your home is protected from the elements. We work with a variety of door and window types, including wood, vinyl, and fiberglass. We pay close attention to detail, ensuring that every door and window is installed securely and that all hardware is properly aligned. Living near the ocean means salt air corrosion is a constant battle, so we offer expert advice on materials that hold up the best. Let us help you create a more comfortable and energy-efficient home.",
+        "process": [
+          "Step 1: Consultation and Product Selection",
+          "Step 2: Old Door/Window Removal and Opening Preparation",
+          "Step 3: New Door/Window Installation and Leveling",
+          "Step 4: Insulation, Sealing, and Trim Installation"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "What type of doors and windows are best for coastal Virginia?",
+            "answer": "Vinyl and fiberglass doors and windows are excellent choices for coastal Virginia due to their resistance to moisture and corrosion. We can help you choose the best option based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do I need a permit for door and window replacement?",
+            "answer": "In some cases, you may need a permit for door and window replacement. We will handle the permitting process for you to ensure your project complies with all local regulations."
+          },
+          {
+            "question": "How long does it take to install new doors and windows?",
+            "answer": "The timeline for door and window installation depends on the number of doors and windows being replaced. A typical project can be completed in 1-3 days."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair-and-installation",
+        "name": "Drywall Repair and Installation",
+        "shortDescription": "Professional drywall repair and installation for smooth and seamless walls.",
+        "description": "Joe Dodd Construction provides expert drywall repair and installation services for Virginia Beach homes. Whether you have a small hole in your wall or need to install new drywall in an entire room, we have the expertise to deliver smooth and seamless results. We handle all aspects of the process, from patching holes and cracks to hanging new drywall and applying joint compound. We understand the importance of proper preparation and finishing techniques, ensuring a flawless surface that is ready for paint. We pay close attention to detail, ensuring that all seams are properly taped and that the surface is smooth and even. Let us help you create beautiful and durable walls.",
+        "process": [
+          "Step 1: Damage Assessment and Preparation",
+          "Step 2: Patching Holes and Cracks",
+          "Step 3: Drywall Hanging and Taping",
+          "Step 4: Sanding, Priming, and Painting"
+        ],
+        "benefits": [
+          "Improved interior aesthetics",
+          "Increased home value",
+          "Protection from moisture and pests",
+          "Smooth and seamless walls"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost of drywall repair depends on the size and severity of the damage. We offer free estimates to assess the damage and provide an accurate quote."
+          },
+          {
+            "question": "Can you match the existing texture of my walls?",
+            "answer": "Yes, we can match the existing texture of your walls to ensure a seamless repair."
+          },
+          {
+            "question": "How long does it take to repair drywall?",
+            "answer": "The timeline for drywall repair depends on the size and complexity of the damage. A small repair can typically be completed in a few hours, while a larger repair may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "handyman-services",
+        "name": "Handyman Services",
+        "shortDescription": "Reliable handyman services for all your home repair and maintenance needs.",
+        "description": "Joe Dodd Construction offers a wide range of handyman services to address all your home repair and maintenance needs in Virginia Beach. From minor plumbing repairs and electrical fixes to furniture assembly and picture hanging, we can handle any task, big or small. We understand that your time is valuable, so we offer prompt and reliable service to get your to-do list completed quickly and efficiently. We are committed to providing quality workmanship and exceptional customer service. No job is too small, and we treat every project with the same level of care and attention to detail. Let us take care of your home repair needs so you can focus on the things that matter most.",
+        "process": [
+          "Step 1: Consultation and Job Assessment",
+          "Step 2: Material Procurement (if needed)",
+          "Step 3: Task Completion with Quality Workmanship",
+          "Step 4: Clean Up and Customer Satisfaction Check"
+        ],
+        "benefits": [
+          "Convenient and reliable service",
+          "Expert repairs and maintenance",
+          "Time savings",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What types of handyman services do you offer?",
+            "answer": "We offer a wide range of handyman services, including plumbing repairs, electrical fixes, carpentry, painting, furniture assembly, and more. Contact us to discuss your specific needs."
+          },
+          {
+            "question": "Do you offer free estimates for handyman services?",
+            "answer": "Yes, we offer free estimates for all handyman services. Contact us to schedule a consultation."
+          },
+          {
+            "question": "What is your hourly rate for handyman services?",
+            "answer": "Our hourly rate for handyman services varies depending on the type of work being performed. We will provide you with a detailed quote before starting any work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman is proud to offer our comprehensive carpentry and handyman services to the residents and businesses of Virginia Beach. From custom cabinetry and intricate trim work to general home repairs and maintenance, we are committed to delivering exceptional craftsmanship and reliable service throughout the Virginia Beach area.\n\nWe understand the unique needs of Virginia Beach homeowners, from coastal weather considerations to architectural styles. Our team is experienced in providing solutions that are both aesthetically pleasing and built to withstand the elements. Whether you're looking to renovate your kitchen, build a custom deck, or simply need help with minor repairs, Joe Dodd Construction is here to help.",
+        "localContext": "Virginia Beach is a vibrant coastal city known for its beautiful beaches, thriving tourism industry, and strong military presence, reflecting a diverse community and a blend of traditional and modern lifestyles.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman provides expert carpentry and handyman services to Norfolk, VA. We are dedicated to serving the diverse needs of Norfolk's residents and businesses, offering everything from custom woodworking and renovations to essential home repairs and maintenance.\n\nWe understand the unique character of Norfolk, from its historic neighborhoods to its bustling downtown area. Our team is equipped to handle a wide range of projects, ensuring quality workmanship and customer satisfaction. Whether you're looking to restore a historic home, upgrade your commercial space, or simply need assistance with everyday repairs, Joe Dodd Construction is your trusted partner in Norfolk.",
+        "localContext": "Norfolk, a historic maritime city, boasts a rich naval heritage, a thriving arts and culture scene, and a diverse population contributing to its unique urban identity.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman is pleased to offer our carpentry and handyman services to the growing community of Chesapeake, VA. We are committed to providing top-quality craftsmanship and reliable service to homeowners and businesses throughout Chesapeake.\n\nWe recognize the diverse needs of Chesapeake residents, from new construction projects to home renovations and repairs. Our team is experienced in handling a wide range of carpentry and handyman tasks, ensuring that your project is completed to your satisfaction. Whether you're building a new home, remodeling your kitchen, or need help with general maintenance, Joe Dodd Construction is here to serve you in Chesapeake.",
+        "localContext": "Chesapeake, a diverse and expanding city, blends suburban living with natural landscapes, fostering a family-friendly environment and a strong sense of community.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman is proud to serve the historic city of Portsmouth, VA, with our expert carpentry and handyman services. We are dedicated to providing high-quality craftsmanship and reliable service to both residential and commercial clients in Portsmouth.\n\nWe understand the unique charm and character of Portsmouth, from its historic architecture to its vibrant waterfront. Our team is experienced in working on a variety of projects, from restoring historic homes to modernizing commercial spaces. Whether you're looking to preserve the past or build for the future, Joe Dodd Construction is your trusted partner in Portsmouth.",
+        "localContext": "Portsmouth, a city steeped in naval history, features a charming historic district, a revitalized waterfront, and a strong sense of community pride.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman provides professional carpentry and handyman services to the residents and businesses of Suffolk, VA. We are committed to delivering exceptional craftsmanship and reliable service throughout the Suffolk area.\n\nWe understand the diverse needs of Suffolk homeowners and business owners, from rural properties to commercial developments. Our team is experienced in providing solutions that are both functional and aesthetically pleasing. Whether you're looking to build a custom barn, renovate your office space, or simply need help with minor repairs, Joe Dodd Construction is here to help.",
+        "localContext": "Suffolk, a large and diverse city, blends rural landscapes with growing suburban areas, offering a mix of agricultural heritage and expanding residential communities.",
+        "nearbyAreas": [
+          "Chesapeake",
+          "Portsmouth",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman is pleased to offer our carpentry and handyman expertise to the community of Hampton, VA. We are dedicated to providing top-notch craftsmanship and reliable service to homeowners and businesses throughout Hampton.\n\nWe recognize the unique needs of Hampton residents and business owners, from coastal considerations to historical preservation. Our team is experienced in handling a wide range of carpentry and handyman tasks, ensuring that your project is completed to your satisfaction. Whether you're renovating a historic home, upgrading your business, or need help with general maintenance, Joe Dodd Construction is here to serve you in Hampton.",
+        "localContext": "Hampton, a city with a rich history dating back to colonial times, boasts a vibrant waterfront, a strong aerospace presence, and a diverse community.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman is proud to serve the city of Newport News, VA, with our expert carpentry and handyman services. We are committed to providing high-quality craftsmanship and reliable service to both residential and commercial clients in Newport News.\n\nWe understand the unique character and needs of Newport News, from its industrial heritage to its growing residential areas. Our team is experienced in working on a variety of projects, from modernizing homes to improving commercial spaces. Whether you're looking to update your property or build something new, Joe Dodd Construction is your trusted partner in Newport News.",
+        "localContext": "Newport News, a city with a strong shipbuilding legacy, offers a blend of industrial innovation, historical sites, and developing residential neighborhoods.",
+        "nearbyAreas": [
+          "Hampton",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Joe Dodd Construction, Carpenter, Handyman is pleased to offer our carpentry and handyman skills to the residents of Poquoson, VA. We are dedicated to providing exceptional craftsmanship and reliable service in this close-knit community.\n\nWe understand the unique character of Poquoson and its residents. Our team is experienced in working on a variety of home improvement and repair projects, ensuring that your project is completed to your satisfaction. Whether you are looking to remodel your kitchen, build a deck, or need help with general home maintenance, Joe Dodd Construction is here to serve you in Poquoson.",
+        "localContext": "Poquoson, a charming coastal community, maintains a strong connection to its maritime heritage and offers a relaxed, family-oriented atmosphere.",
+        "nearbyAreas": [
+          "Hampton",
+          "Newport News",
+          "Yorktown"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Deck Building",
+        "text": "Joe and his team built an amazing deck for our backyard! The design process was collaborative, and they listened to all our ideas. The quality of the work is outstanding, and we've already spent so many evenings enjoying our new outdoor space. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Interior Trim and Molding",
+        "text": "We hired Joe Dodd Construction to install crown molding in our living room, and we're very happy with the results. The craftsmanship is excellent, and the molding adds a touch of elegance to the room. The team was professional and efficient, and they cleaned up after themselves. Would definitely use them again.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Kitchen Cabinet Installation",
+        "text": "Joe and his team did an amazing job installing our new kitchen cabinets. They were professional, efficient, and paid attention to every detail. Our kitchen looks fantastic, and we couldn't be happier with the results.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Door and Window Installation",
+        "text": "We had Joe Dodd Construction replace all the windows in our house, and we're thrilled with the results. The new windows are energy-efficient and have made a noticeable difference in our heating and cooling bills. The installation process was smooth and hassle-free, and the team was very respectful of our home.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Drywall Repair",
+        "text": "Joe Dodd Construction repaired a large hole in our living room wall, and you can't even tell it was ever there. The repair is seamless, and the paint matches perfectly. The team was professional and efficient, and they cleaned up after themselves. Great service!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Handyman Services",
+        "text": "Joe Dodd Construction has been my go-to handyman for years. Always responsive, professional, and gets the job done right the first time. From fixing leaky faucets to assembling furniture, they've handled it all. Highly recommend!",
+        "date": "2024-12-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Joe Dodd Construction | Virginia Beach Carpenter",
+        "description": "Expert carpentry and handyman services in Virginia Beach. Custom decks, trim, cabinets, doors, windows, drywall. Call today!"
+      },
+      "about": {
+        "title": "About Joe Dodd Construction | Virginia Beach VA",
+        "description": "Learn about Joe Dodd Construction's commitment to quality carpentry and handyman services in Virginia Beach and surrounding areas."
+      },
+      "services": {
+        "title": "Virginia Beach Carpenter Services | Joe Dodd",
+        "description": "Comprehensive carpentry services in Virginia Beach: decks, trim, cabinets, doors, windows, drywall repair, handyman services."
+      },
+      "contact": {
+        "title": "Contact Joe Dodd Construction | Virginia Beach",
+        "description": "Contact Joe Dodd Construction for a free consultation and estimate on your carpentry or handyman project in Virginia Beach."
+      },
+      "reviews": {
+        "title": "Joe Dodd Construction Reviews | Virginia Beach VA",
+        "description": "Read reviews from satisfied customers of Joe Dodd Construction in Virginia Beach. Quality carpentry and handyman services, guaranteed."
+      },
+      "service-areas": {
+        "title": "Service Areas | Joe Dodd Construction VA",
+        "description": "Joe Dodd Construction provides carpenter and handyman services throughout Virginia Beach and surrounding Hampton Roads communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-deck-building": "/images/service-custom-deck-building.webp",
+      "interior-trim-and-molding": "/images/service-interior-trim-and-molding.webp",
+      "kitchen-cabinet-installation": "/images/service-kitchen-cabinet-installation.webp",
+      "door-and-window-installation": "/images/service-door-and-window-installation.webp",
+      "drywall-repair-and-installation": "/images/service-drywall-repair-and-installation.webp",
+      "handyman-services": "/images/service-handyman-services.webp"
+    },
+    "servicesResponsive": {
+      "custom-deck-building": {
+        "src": "/images/service-custom-deck-building.webp",
+        "srcset": "/images/service-custom-deck-building-400w.webp 400w, /images/service-custom-deck-building-800w.webp 800w, /images/service-custom-deck-building-1200w.webp 1200w, /images/service-custom-deck-building.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "interior-trim-and-molding": {
+        "src": "/images/service-interior-trim-and-molding.webp",
+        "srcset": "/images/service-interior-trim-and-molding-400w.webp 400w, /images/service-interior-trim-and-molding-800w.webp 800w, /images/service-interior-trim-and-molding-1200w.webp 1200w, /images/service-interior-trim-and-molding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-cabinet-installation": {
+        "src": "/images/service-kitchen-cabinet-installation.webp",
+        "srcset": "/images/service-kitchen-cabinet-installation-400w.webp 400w, /images/service-kitchen-cabinet-installation-800w.webp 800w, /images/service-kitchen-cabinet-installation-1200w.webp 1200w, /images/service-kitchen-cabinet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-and-window-installation": {
+        "src": "/images/service-door-and-window-installation.webp",
+        "srcset": "/images/service-door-and-window-installation-400w.webp 400w, /images/service-door-and-window-installation-800w.webp 800w, /images/service-door-and-window-installation-1200w.webp 1200w, /images/service-door-and-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair-and-installation": {
+        "src": "/images/service-drywall-repair-and-installation.webp",
+        "srcset": "/images/service-drywall-repair-and-installation-400w.webp 400w, /images/service-drywall-repair-and-installation-800w.webp 800w, /images/service-drywall-repair-and-installation-1200w.webp 1200w, /images/service-drywall-repair-and-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "handyman-services": {
+        "src": "/images/service-handyman-services.webp",
+        "srcset": "/images/service-handyman-services-400w.webp 400w, /images/service-handyman-services-800w.webp 800w, /images/service-handyman-services-1200w.webp 1200w, /images/service-handyman-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
